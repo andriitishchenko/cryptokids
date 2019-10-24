@@ -1,2 +1,8 @@
 # cryptokids
-Printing crypto models for kids
+
+customizable layout for printing "cryptographic disk" for kids.
+
+https://andriitishchenko.github.io/cryptokids/
+
+
+
